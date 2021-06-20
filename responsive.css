@@ -1,0 +1,182 @@
+
+/*Responsive css*/
+@media (max-width:1500px) {
+    .my-top-header .container-fluid, .slider-section .container-fluid {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width:1400px) {
+    .about-img-text {
+        right: 58px;
+        bottom: -30px;
+     
+    }
+    
+}
+
+
+
+@media (max-width:1310px) {
+    body .btn-primary {
+        padding: 12px 34px;
+      
+    }
+    .header-primary-menu li a {
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+}
+
+
+@media (max-width:1250px) {
+    .header-right-call {
+        width: 180px;
+    }
+    body .btn-primary {
+        padding: 11px 26px;
+        font-size: 15px;
+    }
+    .header-primary-menu li a {
+        padding: 10px 12px;
+        font-size: 15px;
+    }
+    .header-call-info a {
+        font-size: 14px;
+    }
+    .header-call-info span {
+        font-size: 13px;
+    }
+    .about-img-text {
+        right: 17px;
+        bottom: -56px;
+    }
+}
+@media (max-width:992px) {
+    .header-primary-menu li ul {
+        left: 106px;
+        z-index: 999;
+    }
+    .slider-caption h1 {
+        font-size: 45px;
+    }
+    .finix-default-title h1 {
+        font-size: 22px;
+    }
+    .inner-text h1 {
+        font-size: 50px;
+        
+    }
+    .inner-text b{
+        font-size: 12px;
+    }
+    .about-img-text {
+        position: absolute;
+        right: -8px;
+        bottom: -29px;
+        height: 151px;
+        width: 151px;
+      
+    }
+    .apply-now-right-title {
+        margin-top: 35px;
+    }
+    .coltoo-right-sec {
+        align-items: center;
+    }
+    .coltoo-right-sec a {
+        font-size: 28px;
+        
+    }
+    .coltoo-right-sec span {
+        height: 60px;
+        width: 60px;
+        line-height: 63px;
+        font-size: 27px;
+       
+    }
+    .left-item h2 {
+        font-size: 26px;
+       
+    }
+    .service-tab li a span i {
+       
+        margin-bottom: 39px;
+    }
+    .service-tab {
+        border-bottom: none;
+      
+    }
+    .team-member {
+        margin-bottom: 30px;
+    }
+    .team-bio h5 {
+        font-size: 25px;
+    }
+    .team-bio p {
+        font-size: 15px;
+    }
+    .img-inner-social ul li a {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 15px;
+     
+    }
+    .blog-img-title h4 {
+        font-size: 17px;
+       
+    }
+    .footer-widget h4 {
+      
+        font-size: 18px;
+    }
+    .footer-widget ul li a {
+
+        font-size: 15px;
+    }
+    .footer-widget p {
+        font-size: 14px;
+    }
+    .finix-default-title p {
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .testimonial-left-content p {
+        font-size: 21px;
+    }
+}    
+
+@media (max-width:768px) {
+    .about-right-text {
+        margin-top: 30px;
+    }
+    .about-img-text {
+        right: -12px;
+        bottom: -16px;
+        height: 200px;
+        width: 200px;
+    }
+    .play-animation-btn {
+        right: 38%;
+       
+    }
+    .choose-right-items {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .blog-img-members {
+        cursor: pointer;
+        margin-bottom: 30px;
+    }
+    .blog-img-members img {
+        width: 100%;
+    }
+}
+
+@media (max-width:575px) {
+    .team-img-sec img {
+        width: 100%;
+    }
+}
